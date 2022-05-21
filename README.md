@@ -2,7 +2,7 @@
 
 This repo includes some simple-to-use notebooks, based on the [scikit-Learn tutorials](https://scikit-learn.org/stable/tutorial/basic/tutorial.html#an-introduction-to-machine-learning-with-scikit-learn) and [matplotlib tutorials](https://matplotlib.org/stable/tutorials/introductory/pyplot.html).
 
-[![Open in Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new?repo=lostintangent/intro-to-scikit-learn)
+[![Open in Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new?repo=lostintangent/intro-to-ml)
 
 ## Getting Started
 
