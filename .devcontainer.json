@@ -1,5 +1,8 @@
 {
+  "repositoryDependencies": [
+    "borisdayma/dalle-mini@v2.2.0"
+  ],
   "hostRequirements": {
-     "cpus": 6
+     "gpus": 1
   }
 }
