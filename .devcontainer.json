@@ -4,5 +4,9 @@
   ],
   "hostRequirements": {
      "gpus": 1
-  }
+  },
+  "extensions": [
+    "ms-python.python",
+    "ms-toolsai.jupyter"
+  ]
 }
