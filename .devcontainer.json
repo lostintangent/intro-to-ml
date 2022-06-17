@@ -1,10 +1,4 @@
 {
-  "repositoryDependencies": [
-    "borisdayma/dalle-mini@v2.2.0"
-  ],
-  "hostRequirements": {
-     "gpus": 1
-  },
   "extensions": [
     "ms-python.python",
     "ms-toolsai.jupyter"
